@@ -1,4 +1,5 @@
 # Online shop
+An online shop webapp powered by Django
 
 ## How to use
 
