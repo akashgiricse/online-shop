@@ -9,6 +9,7 @@ verify_ssl = true
 pytz = "==2018.7"
 Django = "==2.0.8"
 Pillow = "==5.1.0"
+python-decouple = "*"
 
 [requires]
 python_version = "3.6"
